@@ -1,2 +1,2 @@
 tsc  
-node index.js
+npm start
